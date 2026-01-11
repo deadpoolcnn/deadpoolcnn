@@ -4,13 +4,13 @@
 
 Full-stack developer and Master's student in Computational Science at Laurentian University, Greater Sudbury, Ontario. Transitioning from frontend engineering at Meituan and Ford China to full-stack with ML/robotics learning and Web3 exploration.
 
-**Key focus areas**:
+**🔑 Key focus areas**:
 - **Full-Stack Development**: React/TypeScript apps, micro-frontends, CMS systems for high-traffic platforms
 - **Machine Learning**: End-to-end pipelines, ensemble models (Random Forest, HistGradientBoosting), F1 0.95 on IMU badminton classification
 - **Robotics & CV**: ROS2 autonomous driving, YOLOv11n traffic detection, PID line following, SLAM foundations
 - **Web3**: Solidity dApps, algorithmic trading bots
 
-**Education & Work**
+**📖 Education & Work**
 - **Laurentian University**: Master of Computational Science (ML, Robotics, Cybersecurity, Data Mining)
 - **Nanjing Institute of Technology**: BS Digital Media Technology, GPA 3.23/4.00
 - **Meituan Co Ltd**:  Front-end Engineer (Apollo App, merchant dashboards)
