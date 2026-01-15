@@ -26,8 +26,8 @@ Full-stack developer and Master's student in Computational Science at Laurentian
 
 ![Skills](https://skillicons.dev/icons?i=react,vue,nextjs,python,supabase,typescript,nodejs,mysql,go,solidity,tailwind,opencv)
 
-| **Blockchain**         | **Frontend**            | **Backend/Database**     |
-|------------------------|-------------------------|--------------------------|
+| **Blockchain**         | **Frontend**            | **Backend/Database**     | **ComputerVision/ML**    |
+|------------------------|-------------------------|--------------------------|--------------------------|
 | ![Solidity](https://img.shields.io/badge/Solidity-intermediate-E10098?style=flat&logo=solidity) | ![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat&logo=react) | ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat&logo=mysql) |
 | ![Rust](https://img.shields.io/badge/Rust-beginner-red?style=flat&logo=Rust) | ![Vue](https://img.shields.io/badge/Vue.js-Advanced-4FC08D?style=flat&logo=vuedotjs) | ![supabase](https://img.shields.io/badge/supabase-Advanced-4FC08D?style=flat&logo=supabase) |
 | | ![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat&logo=nextdotjs) | ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python) |
