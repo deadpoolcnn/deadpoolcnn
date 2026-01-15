@@ -28,7 +28,7 @@ Full-stack developer and Master's student in Computational Science at Laurentian
 
 | **Blockchain**         | **Frontend**            | **Backend/Database**     | **ComputerVision/ML**    |
 |------------------------|-------------------------|--------------------------|--------------------------|
-| ![Solidity](https://img.shields.io/badge/Solidity-intermediate-E10098?style=flat&logo=solidity) | ![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat&logo=react) | ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat&logo=mysql) |
+| ![Solidity](https://img.shields.io/badge/Solidity-intermediate-E10098?style=flat&logo=solidity) | ![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat&logo=react) | ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat&logo=mysql) | ![opencv](https://img.shields.io/badge/opencv-Advanced-000000?style=flat&logo=opencv) |
 | ![Rust](https://img.shields.io/badge/Rust-beginner-red?style=flat&logo=Rust) | ![Vue](https://img.shields.io/badge/Vue.js-Advanced-4FC08D?style=flat&logo=vuedotjs) | ![supabase](https://img.shields.io/badge/supabase-Advanced-4FC08D?style=flat&logo=supabase) |
 | | ![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat&logo=nextdotjs) | ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python) |
  |   |![typescript](https://img.shields.io/badge/typescript-Advanced-4479A1?style=flat&logo=node.js) | ![node.js](https://img.shields.io/badge/node.js-Advanced-4FC08D?style=flat&logo=node.js) |
