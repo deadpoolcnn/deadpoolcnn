@@ -33,8 +33,12 @@ Full-stack developer and Master's student in Computational Science at Laurentian
 | | ![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat&logo=nextdotjs) | ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python) |
  |   |![typescript](https://img.shields.io/badge/typescript-Advanced-4479A1?style=flat&logo=node.js) | ![node.js](https://img.shields.io/badge/node.js-Advanced-4FC08D?style=flat&logo=node.js) |
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=deadpoolcnn&theme=xcode&hide_border=true&area=true)
+<div align="center">
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=deadpoolcnn&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
+</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=deadpoolcnn&theme=xcode&hide_border=true&area=true)
+**Timeline**
+![Lines of Code chart](https://raw.githubusercontent.com/deadpoolcnn/deadpoolcnn/main/assets/bar_graph.png)
 
 ## 📫 Contact
 - [GitHub](https://github.com/deadpoolcnn)
